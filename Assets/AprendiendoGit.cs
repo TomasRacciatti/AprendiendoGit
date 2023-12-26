@@ -5,6 +5,6 @@ using UnityEngine;
 public class AprendiendoGit : MonoBehaviour
 {
 
-    private int prueba = 5;
+    private int prueba = 55;
 
 }
